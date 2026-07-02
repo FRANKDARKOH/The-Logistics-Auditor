@@ -6,7 +6,7 @@ Our audit of 96,470 delivered orders found that 7.8% arrived later than the esti
 
 ## B. Project Links
 
-- **Link to Notebook:** [ADD YOUR GOOGLE COLAB LINK HERE] — *ensure sharing is set to "Anyone with the link can view"*
+- **Link to Notebook:** https://github.com/FRANKDARKOH/The-Logistics-Auditor/blob/main/analysis.ipynb *ensure sharing is set to "Anyone with the link can view"*
 - **Link to Dashboard:** https://app.powerbi.com/view?r=eyJrIjoiZGE3OTgyYzktODYxMS00OGJkLTkwYjgtODk2YTFjZGRkOWQ4IiwidCI6IjEwNGQ4MDQ4LWZkMGMtNDNkNS1hNjMwLWZjNjI5ZTVkYWI1OSJ9
 
 
